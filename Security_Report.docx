@@ -1,0 +1,40 @@
+Network Intrusion Detection System
+Introduction
+This project demonstrates the implementation of a Python-based Network Intrusion Detection System (NIDS) using the Scapy library. The IDS continuously monitors network traffic, analyzes packets, detects suspicious activities, and records alerts for security monitoring.
+
+Objectives
+Monitor live network traffic. 
+Analyze packet information. 
+Detect suspicious network behavior. 
+Generate alerts. 
+Log detected events. 
+
+Detection Features
+ICMP Packet Detection 
+TCP SYN Packet Detection 
+UDP Traffic Monitoring 
+High Network Traffic Detection 
+Port Scan Detection 
+Alert Logging 
+
+Technologies Used
+Python 
+Scapy 
+Visual Studio Code 
+GitHub 
+
+Advantages
+Lightweight 
+Real-time monitoring 
+Easy to understand 
+Educational implementation 
+Extensible design 
+
+Limitations
+Basic detection rules 
+No machine learning 
+No graphical dashboard 
+Limited protocol analysis 
+
+Conclusion
+The Network Intrusion Detection System successfully demonstrates fundamental IDS concepts by monitoring live traffic, detecting suspicious activities, and generating alerts. This project strengthens practical knowledge of cybersecurity monitoring and network defense.
